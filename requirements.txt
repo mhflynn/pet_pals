@@ -5,3 +5,4 @@ Flask-SQLAlchemy
 itsdangerous==1.1.0
 Jinja2==2.11.2
 Werkzeug==1.0.1
+gunicorn
